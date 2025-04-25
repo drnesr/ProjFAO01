@@ -1,2 +1,2 @@
-# ProjFAO01
+# ProjFAO-01
 Predict crop yield based on weather, soil, and fertilizer data.
